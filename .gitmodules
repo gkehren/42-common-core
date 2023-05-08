@@ -37,3 +37,6 @@
 [submodule "get_next_line"]
 	path = get_next_line
 	url = git@github.com:gkehren/get_next_line.git
+[submodule "ft_transcendence"]
+	path = ft_transcendence
+	url = git@github.com:Net-Blitz/ft_transcendence.git
