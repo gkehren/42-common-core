@@ -1,0 +1,39 @@
+[submodule "Cub3D"]
+	path = Cub3D
+	url = git@github.com:gkehren/Cub3D.git
+[submodule "ft_irc"]
+	path = ft_irc
+	url = git@github.com:gkehren/ft_irc.git
+[submodule "Inception"]
+	path = Inception
+	url = git@github.com:gkehren/Inception.git
+[submodule "ft_containers"]
+	path = ft_containers
+	url = git@github.com:gkehren/ft_containers.git
+[submodule "minishell"]
+	path = minishell
+	url = git@github.com:gkehren/minishell.git
+[submodule "CPP-Module"]
+	path = CPP-Module
+	url = git@github.com:gkehren/CPP-Module.git
+[submodule "philosophers"]
+	path = philosophers
+	url = git@github.com:gkehren/philosophers.git
+[submodule "pipex"]
+	path = pipex
+	url = git@github.com:gkehren/pipex.git
+[submodule "so_long"]
+	path = so_long
+	url = git@github.com:gkehren/so_long.git
+[submodule "push_swap"]
+	path = push_swap
+	url = git@github.com:gkehren/push_swap.git
+[submodule "Libft"]
+	path = Libft
+	url = git@github.com:gkehren/Libft.git
+[submodule "ft_printf"]
+	path = ft_printf
+	url = git@github.com:gkehren/ft_printf.git
+[submodule "get_next_line"]
+	path = get_next_line
+	url = git@github.com:gkehren/get_next_line.git
